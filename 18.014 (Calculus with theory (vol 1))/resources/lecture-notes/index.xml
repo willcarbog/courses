@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course Notes</title>
+      <link>/pages/course-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/course-notes/data.json</guid>
+      <description>This course is taught based upon the lecture notes of James Raymond Munkres, Professor of Mathematics, Emeritus. The notes are available as individual chapters, or as one file (PDF - 3.3MB).
+CH TOPICS A Integers and exponents (PDF) B Square roots, and the existence of irrational numbers (PDF) C The Riemann condition (PDF) D Properties of integrals (PDF) E Integrability of bounded piecewise-monotonic functions (PDF) F Continuity of the square root function (PDF) G Rational exponents – an application of the intermediate-value theorem (PDF) H The small span theorem and the extreme-value theorem (PDF) I Theorem and proof (PDF) J Exercises on derivatives (PDF) K The fundamental theorems of calculus (PDF) L The trigonometric functions (PDF) M The exponential and logarithm functions (PDF) N Integration (PDF) O Taylor&amp;rsquo;s formula (PDF) P L&amp;rsquo;Hopital&amp;rsquo;s rule for 0/0 (PDF) Q Notes on error estimates (PDF) R The basic theorems on power series (PDF) S A family of non-analytic functions (PDF) T Fourier Series (PDF) </description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChAnotes.pdf</title>
+      <link>/resources/mit18_014f10_chanotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chanotes/data.json</guid>
+      <description>This resource contains information about integers and exponents.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChBnotes.pdf</title>
+      <link>/resources/mit18_014f10_chbnotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chbnotes/data.json</guid>
+      <description>This resource contains information about square roots, and the existence of irrational numbers.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChCnotes.pdf</title>
+      <link>/resources/mit18_014f10_chcnotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chcnotes/data.json</guid>
+      <description>This resource contains information about the Riemann condition.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChDnotes.pdf</title>
+      <link>/resources/mit18_014f10_chdnotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chdnotes/data.json</guid>
+      <description>This resource contains information about properties of integrals.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChEnotes.pdf</title>
+      <link>/resources/mit18_014f10_chenotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chenotes/data.json</guid>
+      <description>This resource contains information about integrability of bounded piecewise-monotonic functions.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChFnotes.pdf</title>
+      <link>/resources/mit18_014f10_chfnotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chfnotes/data.json</guid>
+      <description>This resource contains information about continuity of the square root function.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChGnotes.pdf</title>
+      <link>/resources/mit18_014f10_chgnotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chgnotes/data.json</guid>
+      <description>This resource contains information about rational exponents – an application of the intermediate-value theorem.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChHnotes.pdf</title>
+      <link>/resources/mit18_014f10_chhnotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chhnotes/data.json</guid>
+      <description>This resource contains information about the small span theorem and the extreme-value theorem.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChInotes.pdf</title>
+      <link>/resources/mit18_014f10_chinotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chinotes/data.json</guid>
+      <description>This resource contains information about theorem and proof.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChJnotes.pdf</title>
+      <link>/resources/mit18_014f10_chjnotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chjnotes/data.json</guid>
+      <description>This resource contains information about exercises on derivatives.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChKnotes.pdf</title>
+      <link>/resources/mit18_014f10_chknotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chknotes/data.json</guid>
+      <description>This resource contains information about the fundamental theorems of calculus.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChLnotes.pdf</title>
+      <link>/resources/mit18_014f10_chlnotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chlnotes/data.json</guid>
+      <description>This resource contains information about the trigonometric functions.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChMnotes.pdf</title>
+      <link>/resources/mit18_014f10_chmnotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chmnotes/data.json</guid>
+      <description>This resource contains information about the exponential and logarithm functions.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChNnotes.pdf</title>
+      <link>/resources/mit18_014f10_chnnotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chnnotes/data.json</guid>
+      <description>This resource contains information about integration.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChOnotes.pdf</title>
+      <link>/resources/mit18_014f10_chonotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chonotes/data.json</guid>
+      <description>This resource contains information about taylor&amp;rsquo;s formula.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChPnotes.pdf</title>
+      <link>/resources/mit18_014f10_chpnotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chpnotes/data.json</guid>
+      <description>This resource contains information about L&amp;rsquo;Hopital&amp;rsquo;s rule for 0/0.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChQnotes.pdf</title>
+      <link>/resources/mit18_014f10_chqnotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chqnotes/data.json</guid>
+      <description>This resource contains information about notes on error estimates.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChRnotes.pdf</title>
+      <link>/resources/mit18_014f10_chrnotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chrnotes/data.json</guid>
+      <description>This resource contains information about the basic theorems on power series.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChSnotes.pdf</title>
+      <link>/resources/mit18_014f10_chsnotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chsnotes/data.json</guid>
+      <description>This resource contains information about a family of non-analytic functions.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ChTnotes.pdf</title>
+      <link>/resources/mit18_014f10_chtnotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_chtnotes/data.json</guid>
+      <description>This resource contains information about fourier series.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_course_notes.pdf</title>
+      <link>/resources/mit18_014f10_course_notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_course_notes/data.json</guid>
+      <description>This resource contains information about all course notes.</description>
+    </item>
+    
+  </channel>
+</rss>

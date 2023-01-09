@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>The problem assignments are are based on the course textbook and course notes:
+Apostol, Tom M. Calculus, Volume 1: One-Variable Calculus, with An Introduction to Linear Algebra. Waltham, Mass: Blaisdell, 1967. ISBN: 9780471000051.
+Course notes by James Raymond Munkres, Professor of Mathematics, Emeritus.
+PROBLEM SET SOLUTIONS Problem set 1 (PDF) (PDF) Problem set 2 (PDF) (PDF) Problem set 3 (PDF) (PDF) Problem set 4 (PDF) (PDF) Problem set 5 (PDF) (PDF) Problem set 6 (PDF) (PDF) Problem set 7 (PDF) (PDF) Problem set 8 (PDF) (PDF) Problem set 9 (PDF) (PDF) Problem set 10 (PDF) (PDF) Problem set 11 - part I (PDF), part II (PDF) Parts I and II (PDF) </description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset1.pdf</title>
+      <link>/resources/mit18_014f10_pset1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset1/data.json</guid>
+      <description>This resource contains problem about unit 1: real numbers.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset10.pdf</title>
+      <link>/resources/mit18_014f10_pset10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset10/data.json</guid>
+      <description>This resource contains problems about Taylor’s formula and limits.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset10sols.pdf</title>
+      <link>/resources/mit18_014f10_pset10sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset10sols/data.json</guid>
+      <description>This resource contains 3 solutions about evaluate the limits limx→∞, derivative yields and plugging in x = 1.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset11a.pdf</title>
+      <link>/resources/mit18_014f10_pset11a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset11a/data.json</guid>
+      <description>This resource contains 4 problems about prove a sequence converges, necessary condition and compactly supported functions on R.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset11b.pdf</title>
+      <link>/resources/mit18_014f10_pset11b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset11b/data.json</guid>
+      <description>This resource contains problem about partII of problems set 11.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset11sols.pdf</title>
+      <link>/resources/mit18_014f10_pset11sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset11sols/data.json</guid>
+      <description>This resource contains 8 solutions about sequence converges, Cauchy sequence of real numbers converges, A function f and the series diverge.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset1sols.pdf</title>
+      <link>/resources/mit18_014f10_pset1sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset1sols/data.json</guid>
+      <description>This resource contains 6 solutions about real number y, theorem I.18, positive integers and real numbers and let n ∈ P be a positive integer.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset2.pdf</title>
+      <link>/resources/mit18_014f10_pset2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset2/data.json</guid>
+      <description>This resource contains problem about Unit 2: the integral.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset2sols.pdf</title>
+      <link>/resources/mit18_014f10_pset2sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset2sols/data.json</guid>
+      <description>This resource contains 6 solutions about polynomial of degree n, number of elements of S, positive integer and defining integrals.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset3.pdf</title>
+      <link>/resources/mit18_014f10_pset3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset3/data.json</guid>
+      <description>This resource contains problem about unit 3: limits and continuity -week 1.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset3sols.pdf</title>
+      <link>/resources/mit18_014f10_pset3sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset3sols/data.json</guid>
+      <description>This resource contains 3 solutions about values of c, g(x)= x over the interval and step functions s(x) and t(x).</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset4.pdf</title>
+      <link>/resources/mit18_014f10_pset4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset4/data.json</guid>
+      <description>This resource contains problems about limits and continuity.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset4sols.pdf</title>
+      <link>/resources/mit18_014f10_pset4sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset4sols/data.json</guid>
+      <description>This resource contains 6 solutions about limit formulas, graph, theorem 3.5 and define a function f(x).</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset5.pdf</title>
+      <link>/resources/mit18_014f10_pset5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset5/data.json</guid>
+      <description>This resource contains problem about derivatives.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset5sols.pdf</title>
+      <link>/resources/mit18_014f10_pset5sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset5sols/data.json</guid>
+      <description>This resource contains 6 solutions about inverse function g?, the extreme value theorem and distance between (w, 0).</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset6.pdf</title>
+      <link>/resources/mit18_014f10_pset6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset6/data.json</guid>
+      <description>This resource contains 6 problems about derivatives.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset6sols.pdf</title>
+      <link>/resources/mit18_014f10_pset6sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset6sols/data.json</guid>
+      <description>This resource contains 6 solutions about a right-circular cone with its vertex down, Rolle’s theorem, f is monotonic and the definition of the derivative.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset7.pdf</title>
+      <link>/resources/mit18_014f10_pset7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset7/data.json</guid>
+      <description>This resource contains problems derivatives.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset7sols.pdf</title>
+      <link>/resources/mit18_014f10_pset7sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset7sols/data.json</guid>
+      <description>This resource contains 3 solutions about function g continuous, deduce the inequalities and Find the derivative of x.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset8.pdf</title>
+      <link>/resources/mit18_014f10_pset8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset8/data.json</guid>
+      <description>This resource contains problem about integration techniques.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset8sols.pdf</title>
+      <link>/resources/mit18_014f10_pset8sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset8sols/data.json</guid>
+      <description>This resource contains 6 solutions about Applying integration by parts (theorem 5.5), general exponentials, deduce the formula and course notes.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset9.pdf</title>
+      <link>/resources/mit18_014f10_pset9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset9/data.json</guid>
+      <description>This resource contains problem about integration techniques/taylor’s formula.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pset9sols.pdf</title>
+      <link>/resources/mit18_014f10_pset9sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pset9sols/data.json</guid>
+      <description>This resource contains problem about Integration techniques/Taylor’s formula.</description>
+    </item>
+    
+  </channel>
+</rss>

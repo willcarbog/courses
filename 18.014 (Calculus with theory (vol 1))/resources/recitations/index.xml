@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recitations on MIT OpenCourseWare</title>
+    <link>/resources/recitations/</link>
+    <description>Recent content in Recitations on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/recitations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recitations</title>
+      <link>/pages/recitations/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/recitations/data.json</guid>
+      <description>The Recitations are from the course textbook:
+Apostol, Tom M. Calculus, Volume 1: One-Variable Calculus, with An Introduction to Linear Algebra. Waltham, Mass: Blaisdell, 1967. ISBN: 9780471000051.
+REC # ASSIGNMENTS 1 Pg 16: 10, 15, 18 2 Pg 18: prove Th&amp;rsquo;m I.9, I.10; pg 19: 4 3 Prove Th&amp;rsquo;m I.24; pp 35-36: 1a,11; pg 40: 6, 11 4 A.9:3; pg 28: 3; pg 43: 1achi 5 Pg 57: 9abc, 11; pg 63:1ab, 4a 6 Pg 70: 1bcde, 2,3; prove theorem 1.</description>
+    </item>
+    
+  </channel>
+</rss>

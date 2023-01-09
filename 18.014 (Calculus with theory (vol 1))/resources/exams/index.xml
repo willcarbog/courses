@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/exams/data.json</guid>
+      <description>The exams were given during the lecture sessions noted in the table.
+SES # PRACTICE EXAMS EXAMS SOLUTIONS 11 Practice exam 1 (PDF)
+Practice exam 1 solutions (PDF)
+Exam 1 (PDF) Exam 1 solutions (PDF) 23 Practice exam 2 (PDF)
+Practice exam 2 solutions (PDF)
+Exam 2 (PDF) Exam 2 solutions (PDF) 31 Practice exam 3 (PDF)
+Practice exam 3 solutions (PDF)
+Exam 3 (PDF) Exam 3 solutions (PDF) Final Practice problems for the final exam (PDF) [Not Available] [Not Available] </description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ex1_sols.pdf</title>
+      <link>/resources/mit18_014f10_ex1_sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_ex1_sols/data.json</guid>
+      <description>This resource contains information about integrable function and Properties of the integral imply.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ex1.pdf</title>
+      <link>/resources/mit18_014f10_ex1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_ex1/data.json</guid>
+      <description>This resource contains information about integrable function and inductive sets.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ex2_sols.pdf</title>
+      <link>/resources/mit18_014f10_ex2_sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_ex2_sols/data.json</guid>
+      <description>This resource contains information about derivative, a quick calculation yields and hypotheses of the theorem.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ex2.pdf</title>
+      <link>/resources/mit18_014f10_ex2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_ex2/data.json</guid>
+      <description>This resource contains information about is it convex or concave?</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ex3_sols.pdf</title>
+      <link>/resources/mit18_014f10_ex3_sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_ex3_sols/data.json</guid>
+      <description>This resource contains information about single fraction, application of L’Hopital’s rule and Taylor polynomial.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_ex3.pdf</title>
+      <link>/resources/mit18_014f10_ex3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_ex3/data.json</guid>
+      <description>This resource contains information about supported functions, positive integer k and every real number x.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_final_pr_ex.pdf</title>
+      <link>/resources/mit18_014f10_final_pr_ex/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_final_pr_ex/data.json</guid>
+      <description>This resource contains information about Taylor approximations rather than L’Hopital, series converge and definition of the derivative.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pr_ex1_sols.pdf</title>
+      <link>/resources/mit18_014f10_pr_ex1_sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pr_ex1_sols/data.json</guid>
+      <description>This resource contains information about practice exam 1 -solutions.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pr_ex1.pdf</title>
+      <link>/resources/mit18_014f10_pr_ex1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pr_ex1/data.json</guid>
+      <description>This resource contains information about practice exam 1.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pr_ex2_sols.pdf</title>
+      <link>/resources/mit18_014f10_pr_ex2_sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pr_ex2_sols/data.json</guid>
+      <description>This resource contains information about practice exam 2 solutions.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pr_ex2.pdf</title>
+      <link>/resources/mit18_014f10_pr_ex2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pr_ex2/data.json</guid>
+      <description>This resource contains information about practice exam 2.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pr_ex3_sols.pdf</title>
+      <link>/resources/mit18_014f10_pr_ex3_sols/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pr_ex3_sols/data.json</guid>
+      <description>This resource contains information about L’Hopital’s rule, simple substitution and Taylor polynomial.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_014F10_pr_ex3.pdf</title>
+      <link>/resources/mit18_014f10_pr_ex3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_014f10_pr_ex3/data.json</guid>
+      <description>This resource contains information about infinitely differentiable function on R.</description>
+    </item>
+    
+  </channel>
+</rss>

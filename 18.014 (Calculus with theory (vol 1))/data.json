@@ -1,0 +1,20 @@
+{
+  "course_title":"Calculus with Theory",
+  "course_description":"18.014, Calculus with Theory, covers the same material as 18.01 (Single Variable Calculus), but at a deeper and more rigorous level. It emphasizes careful reasoning and understanding of proofs. The course assumes knowledge of elementary calculus.\n",
+  "site_uid":"0c5549d3-7d3e-42de-808e-a91f3f3f7c5b",
+  "legacy_uid":"fa0c1262-bb27-3738-c851-638f5adaabea","instructors": [{
+    "first_name":"Christine",
+    "last_name":"Breiner",
+    "middle_initial":"",
+    "salutation":"",
+    "title":"Christine Breiner"}],"department_numbers":["18"],
+  "learning_resource_types":["Problem Sets with Solutions","Exams with Solutions","Lecture Notes"],
+  "topics":[["Mathematics","Calculus"],["Mathematics","Differential Equations"]],
+  "primary_course_number":"18.014",
+  "extra_course_numbers":"",
+  "term":"Fall",
+  "year":"2010",
+  "level":["Undergraduate"],
+  "image_src":"./static_resources/d050670d43c1617e5921e5ed9413a0f2_18-014f10.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"Calculus has practical applications, such as understanding the true meaning of the infinitesimals. (Image concept by Dr. Lachowska.)","draft":false,"file":"/courses/18-014-calculus-with-theory-fall-2010/d050670d43c1617e5921e5ed9413a0f2_18-014f10.jpg","file_type":"image/jpeg","image_metadata":{"caption":"Calculus has practical applications, such as understanding the true meaning of the infinitesimals. (Image courtesy of Anna Lachowska.)","credit":"Image accompanying course home page.","image-alt":"A cartoon that demonstrates the importance of understanding the infinitestimals."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"18-014f10.jpg","uid":"d050670d-43c1-617e-5921-e5ed9413a0f2"}}
+

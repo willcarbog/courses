@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readings</title>
+      <link>/pages/readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/readings/data.json</guid>
+      <description>Apostol, Tom M. Calculus, Volume 1: One-Variable Calculus, with An Introduction to Linear Algebra. Waltham, Mass: Blaisdell, 1967. ISBN: 9780471000051.
+Additional course notes by James Raymond Munkres, Professor of Mathematics, Emeritus, are also provided. SES # TOPICS TEXTBOOK READINGS COURSE NOTES READINGS Real numbers 0 Proof writing and set theory I 2.1-2.4 1 Axioms for the real numbers I 3.1-3.7 2 Integers, induction, sigma notation I 4.1-4.6 Course Notes A 3 Least upper bound, triangle inequality I 3.</description>
+    </item>
+    
+  </channel>
+</rss>
