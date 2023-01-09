@@ -1,0 +1,25 @@
+{
+  "course_title":"Differential Equations",
+  "course_description":"Differential Equations are the language in which the laws of nature are expressed. Understanding properties of solutions of differential equations is fundamental to much of contemporary science and engineering. Ordinary differential equations (ODE's) deal with functions of one variable, which can often be thought of as time.",
+  "site_uid":"8727bd33-c3cc-4fca-aee7-87a18051778a",
+  "legacy_uid":"3caf857b-c5c2-4953-93d7-61d529a6b62b","instructors": [{
+    "first_name":"Haynes",
+    "last_name":"Miller",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Haynes Miller"},{
+    "first_name":"Arthur",
+    "last_name":"Mattuck",
+    "middle_initial":"",
+    "salutation":"Prof. ",
+    "title":"Prof. Arthur Mattuck"}],"department_numbers":["18"],
+  "learning_resource_types":["Lecture Videos","Simulations","Lecture Notes","Problem Sets with Solutions"],
+  "topics":[["Mathematics","Differential Equations"],["Mathematics","Linear Algebra"]],
+  "primary_course_number":"18.03",
+  "extra_course_numbers":"",
+  "term":"Spring",
+  "year":"2010",
+  "level":["Undergraduate"],
+  "image_src":"./static_resources/e51bbed857b0ae65e7536f120c1473d9_18-03s10.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"","draft":false,"file":"/courses/18-03-differential-equations-spring-2010/e51bbed857b0ae65e7536f120c1473d9_18-03s10.jpg","file_type":"image/jpeg","image_metadata":{"caption":"A spring system responds to being shaken by oscillating. When the input frequency is near a natural mode of the system, the amplitude is large. This can be understood in the frequency domain using the Laplace transform and its pole diagram. (Image courtesy Hu Hohn and Prof. Haynes Miller.)","credit":"","image-alt":"Screenshot of Mathlet from the d'Arbeloff Interactive Math Project."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"18-03s10.jpg","uid":"e51bbed8-57b0-ae65-e753-6f120c1473d9","video_metadata":{"youtube_id":null}}}
+

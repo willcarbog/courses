@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recitations on MIT OpenCourseWare</title>
+    <link>/resources/recitations/</link>
+    <description>Recent content in Recitations on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/recitations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fourier Series: Introduction</title>
+      <link>/resources/mit18_03s10_rec_13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_13/data.json</guid>
+      <description>Recitation handout containing problems for a group activity on Fourier series and periodic functions.</description>
+    </item>
+    
+    <item>
+      <title>Fourier Series: Introduction (Solutions)</title>
+      <link>/resources/mit18_03s10_rec_13_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_13_sol/data.json</guid>
+      <description>Solutions to problems for a group activity on Fourier series and periodic functions.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_01_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_01_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_01_sol/data.json</guid>
+      <description>New file Upload</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_01.pdf</title>
+      <link>/resources/mit18_03s10_rec_01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_01/data.json</guid>
+      <description>New file Upload</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_02_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_02_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_02_sol/data.json</guid>
+      <description>This resource contains information related to direction fields, integral curves, isoclines, separatrices and funnels.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_02.pdf</title>
+      <link>/resources/mit18_03s10_rec_02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_02/data.json</guid>
+      <description>This resource contains information related to direction fields, integral curves, isoclines, separatrices, funnels.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_03_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_03_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_03_sol/data.json</guid>
+      <description>This resource contains information related to euler&amp;rsquo;s method and linear models.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_03.pdf</title>
+      <link>/resources/mit18_03s10_rec_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_03/data.json</guid>
+      <description>This resource contains information related to euler&amp;rsquo;s method and linear models.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_04_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_04_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_04_sol/data.json</guid>
+      <description>This resource contains information related to first order linear ODEs and integrating factors.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_04.pdf</title>
+      <link>/resources/mit18_03s10_rec_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_04/data.json</guid>
+      <description>New file Upload</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_05_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_05_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_05_sol/data.json</guid>
+      <description>This resource contains information related to complex numbers and complex exponentials</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_05.pdf</title>
+      <link>/resources/mit18_03s10_rec_05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_05/data.json</guid>
+      <description>This resource contains information related to complex numbers and complex exponentials.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_07_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_07_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_07_sol/data.json</guid>
+      <description>This resource contains information related to solutions to second order ODEs.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_07.pdf</title>
+      <link>/resources/mit18_03s10_rec_07/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_07/data.json</guid>
+      <description>This resource contains information related to solutions to second order ODEs.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_08_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_08_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_08_sol/data.json</guid>
+      <description>This resource contains information related to homogeneous 2nd order linear constant coefficient equations.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_08.pdf</title>
+      <link>/resources/mit18_03s10_rec_08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_08/data.json</guid>
+      <description>This resource contains information related to homogeneous and linear constant coefficient equations.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_09_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_09_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_09_sol/data.json</guid>
+      <description>This resource contains information related to exponential and sinusoidal input signals.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_09.pdf</title>
+      <link>/resources/mit18_03s10_rec_09/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_09/data.json</guid>
+      <description>This resource contains information related to exponential and sinusoidal input signals.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_10_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_10_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_10_sol/data.json</guid>
+      <description>This resource contains information related to gain, phase lag, resonance and undetermined coefficients.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_10.pdf</title>
+      <link>/resources/mit18_03s10_rec_10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_10/data.json</guid>
+      <description>This resource contains information related to gain, phase lag, resonance and undetermined coefficients.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_11_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_11_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_11_sol/data.json</guid>
+      <description>This resource contains information related to frequency response.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_11.pdf</title>
+      <link>/resources/mit18_03s10_rec_11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_11/data.json</guid>
+      <description>New file Upload</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_14_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_14_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_14_sol/data.json</guid>
+      <description>This resource contains information related to fourier series.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_14.pdf</title>
+      <link>/resources/mit18_03s10_rec_14/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_14/data.json</guid>
+      <description>New file Upload</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_15_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_15_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_15_sol/data.json</guid>
+      <description>New file Upload</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_15.pdf</title>
+      <link>/resources/mit18_03s10_rec_15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_15/data.json</guid>
+      <description>This resource contains information related to fourier series and harmonic response.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_16_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_16_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_16_sol/data.json</guid>
+      <description>This resource contains information related to step and delta functions, and step and delta responses</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_16.pdf</title>
+      <link>/resources/mit18_03s10_rec_16/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_16/data.json</guid>
+      <description>This resource contains information related to step and delta functions, and step and delta responses.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_17_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_17_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_17_sol/data.json</guid>
+      <description>This resource contains information related to convolution.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_17.pdf</title>
+      <link>/resources/mit18_03s10_rec_17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_17/data.json</guid>
+      <description>This resource contains information related to convolution.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_18_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_18_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_18_sol/data.json</guid>
+      <description>This resource contains information related to laplace transform.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_18.pdf</title>
+      <link>/resources/mit18_03s10_rec_18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_18/data.json</guid>
+      <description>This resource contains information related to laplace transform.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_19_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_19_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_19_sol/data.json</guid>
+      <description>This resource contains information related to laplace transform II.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_19.pdf</title>
+      <link>/resources/mit18_03s10_rec_19/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_19/data.json</guid>
+      <description>This resource contains information related to laplace transform II.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_21_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_21_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_21_sol/data.json</guid>
+      <description>This resource contains information related to first order linear systems.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_21.pdf</title>
+      <link>/resources/mit18_03s10_rec_21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_21/data.json</guid>
+      <description>This resource contains information related to first order linear systems.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_22_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_22_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_22_sol/data.json</guid>
+      <description>This resource contains information related to eigenvalues and eigenvectors.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_22.pdf</title>
+      <link>/resources/mit18_03s10_rec_22/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_22/data.json</guid>
+      <description>This resource contains information related to eigenvalues and eigenvectors.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_23_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_23_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_23_sol/data.json</guid>
+      <description>This resource contains information related to linear phase portraits.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_23.pdf</title>
+      <link>/resources/mit18_03s10_rec_23/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_23/data.json</guid>
+      <description>This resource contains information related to linear phase portraits.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_24_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_24_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_24_sol/data.json</guid>
+      <description>New file Upload</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_24.pdf</title>
+      <link>/resources/mit18_03s10_rec_24/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_24/data.json</guid>
+      <description>This resource contains information related to matrix exponentials.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_25_sol.pdf</title>
+      <link>/resources/mit18_03s10_rec_25_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_25_sol/data.json</guid>
+      <description>This resource contains information related to autonomous systems.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_rec_25.pdf</title>
+      <link>/resources/mit18_03s10_rec_25/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_rec_25/data.json</guid>
+      <description>New file Upload</description>
+    </item>
+    
+    <item>
+      <title>Recitations</title>
+      <link>/pages/recitations/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/recitations/data.json</guid>
+      <description>The problems are designed to be worked on by students in groups in recitation.
+REC # TOPICS PROBLEMS SOLUTIONS I. First-order differential equations 1 Natural growth, separable equations (PDF) (PDF) 2 Direction fields, integral curves, isoclines, separatrices, funnels (PDF) (PDF) 3 Euler&amp;rsquo;s method; linear models (PDF) (PDF) 4 First order linear ODEs; integrating factors (PDF) (PDF) 5 Complex numbers; complex exponentials (PDF) (PDF) 6 Review for exam I II. Second-order linear equations 7 Solutions to second order ODEs (PDF) (PDF) 8 Homogeneous 2nd order linear constant coefficient equations (PDF) (PDF) 9 Exponential and sinusoidal input signals (PDF) (PDF) 10 Gain and phase lag; resonance; undetermined coefficients (PDF) (PDF) 11 Frequency response (PDF) (PDF) 12 Review for exam II III.</description>
+    </item>
+    
+  </channel>
+</rss>

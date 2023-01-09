@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/exams/data.json</guid>
+      <description> EXAM# PRACTICE EXAMS EXAMS SOLUTIONS 1 Practice exam with solutions (PDF) (PDF) (PDF) 2 Study guide &amp;amp; practice exam with solutions (PDF) (PDF) (PDF) 3 Formula sheet &amp;amp; practice exam with solutions (PDF) (PDF) (PDF) Final Practice final exam (PDF) and solutions (PDF) (PDF) [Solution not available] </description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ex1.pdf</title>
+      <link>/resources/mit18_03s10_ex1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ex1/data.json</guid>
+      <description>This resource contains information related to pest control service and rat population.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ex1s.pdf</title>
+      <link>/resources/mit18_03s10_ex1s/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ex1s/data.json</guid>
+      <description>This resource contains information related to hour exam.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ex2.pdf</title>
+      <link>/resources/mit18_03s10_ex2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ex2/data.json</guid>
+      <description>This resource contains information related to hour exam.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ex2s.pdf</title>
+      <link>/resources/mit18_03s10_ex2s/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ex2s/data.json</guid>
+      <description>This resource contains information related to polynomial and homogeneous equation.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ex3.pdf</title>
+      <link>/resources/mit18_03s10_ex3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ex3/data.json</guid>
+      <description>This resource contains information related to hour exam.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ex3s.pdf</title>
+      <link>/resources/mit18_03s10_ex3s/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ex3s/data.json</guid>
+      <description>This resource contains information related to miminal period, and periodic solution.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_final.pdf</title>
+      <link>/resources/mit18_03s10_final/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_final/data.json</guid>
+      <description>This resource contains information related to tritium and differential equation.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_prex_02_guide.pdf</title>
+      <link>/resources/mit18_03s10_prex_02_guide/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_prex_02_guide/data.json</guid>
+      <description>This resource contains information related to homogenous equations.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_prex_03_guide.pdf</title>
+      <link>/resources/mit18_03s10_prex_03_guide/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_prex_03_guide/data.json</guid>
+      <description>This resource contains information related to laplace and convolution.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_prex1.pdf</title>
+      <link>/resources/mit18_03s10_prex1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_prex1/data.json</guid>
+      <description>This resource contains information related to a sinusoidal solution.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_prfinal.pdf</title>
+      <link>/resources/mit18_03s10_prfinal/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_prfinal/data.json</guid>
+      <description>This resource contains information related to differential equation and euler’s method.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_prfinals.pdf</title>
+      <link>/resources/mit18_03s10_prfinals/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_prfinals/data.json</guid>
+      <description>This resource contains information related to isocline.</description>
+    </item>
+    
+  </channel>
+</rss>

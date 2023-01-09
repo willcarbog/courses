@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Complex Numbers, Roots of Unity</title>
+      <link>/resources/mit18_03s10_c05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c05/data.json</guid>
+      <description>Lecture notes on complex numbers, complex algebra , complex conjugation, and polar multiplication.</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>Below are the lecture notes for every lecture session along with links to the Mathlets used during lectures.
+LEC# TOPICS RELATED MATHLETS I. First-order differential equations 1 Direction fields, existence and uniqueness of solutions (PDF) Related Mathlet: Isoclines 2 Numerical methods (PDF) Related Mathlet: Euler&amp;rsquo;s method 3 Linear equations, models (PDF) 4 Solution of linear equations, integrating factors (PDF) 5 Complex numbers, roots of unity (PDF) 6 Complex exponentials; sinusoidal functions (PDF) Related Mathlets: Complex roots, Complex exponential 7 Linear system response to exponential and sinusoidal input; gain, phase lag (PDF) Related Mathlet: Trigonometric identity 8 Autonomous equations; the phase line, stability (PDF) Related Mathlet: Phase lines 9 Linear vs.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c01.pdf</title>
+      <link>/resources/mit18_03s10_c01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c01/data.json</guid>
+      <description>This resource contains information related to direction fields, existence and uniqueness of solutions.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c02.pdf</title>
+      <link>/resources/mit18_03s10_c02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c02/data.json</guid>
+      <description>This resource contains information related to numerical methods.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c03.pdf</title>
+      <link>/resources/mit18_03s10_c03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c03/data.json</guid>
+      <description>This resource contains information related to linear equations and model.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c04.pdf</title>
+      <link>/resources/mit18_03s10_c04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c04/data.json</guid>
+      <description>This resource contains information related to solution of linear equations and integrating factors.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c06.pdf</title>
+      <link>/resources/mit18_03s10_c06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c06/data.json</guid>
+      <description>This resource contains information related to complex exponentials and sinusoidal functions.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c07.pdf</title>
+      <link>/resources/mit18_03s10_c07/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c07/data.json</guid>
+      <description>This resource contains information related to linear system response to exponential and sinusoidal input, gain znd phase lag.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c08.pdf</title>
+      <link>/resources/mit18_03s10_c08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c08/data.json</guid>
+      <description>This resource contains information related to autonomous equations; the phase line and stability.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c09.pdf</title>
+      <link>/resources/mit18_03s10_c09/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c09/data.json</guid>
+      <description>This resource contains information related to Linear vs. nonlinear</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c11.pdf</title>
+      <link>/resources/mit18_03s10_c11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c11/data.json</guid>
+      <description>This resource contains information related to modes and the characteristic polynomial.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c12.pdf</title>
+      <link>/resources/mit18_03s10_c12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c12/data.json</guid>
+      <description>This resource contains information related to good vibrations and damping conditions.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c13.pdf</title>
+      <link>/resources/mit18_03s10_c13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c13/data.json</guid>
+      <description>This resource contains information related to exponential response formula and spring drive.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c14.pdf</title>
+      <link>/resources/mit18_03s10_c14/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c14/data.json</guid>
+      <description>This resource contains information related to complex gain and dashpot drive.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c15.pdf</title>
+      <link>/resources/mit18_03s10_c15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c15/data.json</guid>
+      <description>This resource contains information related to operators, undetermined coefficients snd resonance.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c16.pdf</title>
+      <link>/resources/mit18_03s10_c16/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c16/data.json</guid>
+      <description>This resource contains information related to frequency response.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c17.pdf</title>
+      <link>/resources/mit18_03s10_c17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c17/data.json</guid>
+      <description>This resource contains information related to LTI systems, superposition, and RLC circuits.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c18_transcript.pdf</title>
+      <link>/resources/mit18_03s10_c18_transcript/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c18_transcript/data.json</guid>
+      <description>This resource contains information related to engineering applications.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c20.pdf</title>
+      <link>/resources/mit18_03s10_c20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c20/data.json</guid>
+      <description>This resource contains information related to fourier series.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c21.pdf</title>
+      <link>/resources/mit18_03s10_c21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c21/data.json</guid>
+      <description>This resource contains information related to operations on fourier series.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c22.pdf</title>
+      <link>/resources/mit18_03s10_c22/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c22/data.json</guid>
+      <description>This resource contains information related to periodic solutions and resonance.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c23.pdf</title>
+      <link>/resources/mit18_03s10_c23/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c23/data.json</guid>
+      <description>This resource contains information related to step function and delta function.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c24.pdf</title>
+      <link>/resources/mit18_03s10_c24/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c24/data.json</guid>
+      <description>This resource contains information related to step response and impulse response.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c25.pdf</title>
+      <link>/resources/mit18_03s10_c25/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c25/data.json</guid>
+      <description>This resource contains information related to convolution.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c26.pdf</title>
+      <link>/resources/mit18_03s10_c26/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c26/data.json</guid>
+      <description>This resource contains information related to laplace transform and basic properties.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c27.pdf</title>
+      <link>/resources/mit18_03s10_c27/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c27/data.json</guid>
+      <description>This resource contains information related to application to ODEs.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c28.pdf</title>
+      <link>/resources/mit18_03s10_c28/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c28/data.json</guid>
+      <description>This resource contains information related to second order equations and completing the squares.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c29.pdf</title>
+      <link>/resources/mit18_03s10_c29/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c29/data.json</guid>
+      <description>This resource contains information related to the pole diagram.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c30.pdf</title>
+      <link>/resources/mit18_03s10_c30/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c30/data.json</guid>
+      <description>This resource contains information related to the transfer function and frequency response.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c32.pdf</title>
+      <link>/resources/mit18_03s10_c32/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c32/data.json</guid>
+      <description>This resource contains information related to linear systems and matrices.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c33.pdf</title>
+      <link>/resources/mit18_03s10_c33/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c33/data.json</guid>
+      <description>This resource contains information related to eigenvalues and eigenvectors.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c34.pdf</title>
+      <link>/resources/mit18_03s10_c34/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c34/data.json</guid>
+      <description>This resource contains information related to complex or repeated eigenvalues.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c35.pdf</title>
+      <link>/resources/mit18_03s10_c35/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c35/data.json</guid>
+      <description>This resource contains information related to qualitative behavior of linear systems and phase plane.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c36.pdf</title>
+      <link>/resources/mit18_03s10_c36/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c36/data.json</guid>
+      <description>This resource contains information related to normal modes and the matrix exponentia.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c37.pdf</title>
+      <link>/resources/mit18_03s10_c37/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c37/data.json</guid>
+      <description>This resource contains information related to nonlinear systems.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c38.pdf</title>
+      <link>/resources/mit18_03s10_c38/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c38/data.json</guid>
+      <description>This resource contains information related to linearization near equilibria and the nonlinear pendulum.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_c39.pdf</title>
+      <link>/resources/mit18_03s10_c39/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_c39/data.json</guid>
+      <description>This resource contains information related to limitations of the linear: limit cycles and chaos.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_lec_mathle_key.pdf</title>
+      <link>/resources/mit18_03s10_lec_mathle_key/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_lec_mathle_key/data.json</guid>
+      <description>This resource contains information related to mathlet key used in lectures.</description>
+    </item>
+    
+  </channel>
+</rss>

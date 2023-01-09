@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>Each homework assignment has two parts:
+Part I of each problem set consists of problems which are either rather routine or for which solutions are available in the back of the book, or in 18.03 Notes and Exercises by Prof. Mattuck.
+Part II contains more challenging and novel problems. They will help you develop an understanding of the material.
+[EP] refers to a problem in the course textbook: Edwards, C., and D.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ps1.pdf</title>
+      <link>/resources/mit18_03s10_ps1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ps1/data.json</guid>
+      <description>This resource contains information related to problem set 1.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ps1s.pdf</title>
+      <link>/resources/mit18_03s10_ps1s/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ps1s/data.json</guid>
+      <description>This resource contains information related to problem set 1.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ps2.pdf</title>
+      <link>/resources/mit18_03s10_ps2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ps2/data.json</guid>
+      <description>This resource contains information related to problem set 2.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ps2s.pdf</title>
+      <link>/resources/mit18_03s10_ps2s/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ps2s/data.json</guid>
+      <description>This resource contains information related to problem set 2.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ps3a.pdf</title>
+      <link>/resources/mit18_03s10_ps3a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ps3a/data.json</guid>
+      <description>This resource contains information related to problem set 3.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ps3s.pdf</title>
+      <link>/resources/mit18_03s10_ps3s/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ps3s/data.json</guid>
+      <description>This resource contains information related to problem set 3.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ps4.pdf</title>
+      <link>/resources/mit18_03s10_ps4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ps4/data.json</guid>
+      <description>This resource contains information related to problem set 4.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ps4s.pdf</title>
+      <link>/resources/mit18_03s10_ps4s/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ps4s/data.json</guid>
+      <description>This resource contains information related to problem set 4.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ps5a.pdf</title>
+      <link>/resources/mit18_03s10_ps5a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ps5a/data.json</guid>
+      <description>This resource contains information related to problem set 5.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ps5b.pdf</title>
+      <link>/resources/mit18_03s10_ps5b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ps5b/data.json</guid>
+      <description>This resource contains information related to problem set 5.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ps5s.pdf</title>
+      <link>/resources/mit18_03s10_ps5s/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ps5s/data.json</guid>
+      <description>This resource contains information related to problem set 5.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ps7.pdf</title>
+      <link>/resources/mit18_03s10_ps7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ps7/data.json</guid>
+      <description>This resource contains information related to problem set 7.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ps7s.pdf</title>
+      <link>/resources/mit18_03s10_ps7s/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ps7s/data.json</guid>
+      <description>This resource contains information related to problem set 7.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ps8s.pdf</title>
+      <link>/resources/mit18_03s10_ps8s/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ps8s/data.json</guid>
+      <description>This resource contains information related to problem set 8.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_ps9s.pdf</title>
+      <link>/resources/mit18_03s10_ps9s/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_ps9s/data.json</guid>
+      <description>This resource contains information related to problem set 9.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_pset_03_II.pdf</title>
+      <link>/resources/mit18_03s10_pset_03_ii/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_pset_03_ii/data.json</guid>
+      <description>This resource contains information related to problem set 3.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_pset_06_sol.pdf</title>
+      <link>/resources/mit18_03s10_pset_06_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_pset_06_sol/data.json</guid>
+      <description>This resource contains information related to problem set 6.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_pset_06.pdf</title>
+      <link>/resources/mit18_03s10_pset_06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_pset_06/data.json</guid>
+      <description>This resource contains information related to problem set 6.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_pset_08_II.pdf</title>
+      <link>/resources/mit18_03s10_pset_08_ii/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_pset_08_ii/data.json</guid>
+      <description>This resource contains information related to problem set 8.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_pset_08.pdf</title>
+      <link>/resources/mit18_03s10_pset_08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_pset_08/data.json</guid>
+      <description>This resource contains information related to problem set 8.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_03S10_pset_09.pdf</title>
+      <link>/resources/mit18_03s10_pset_09/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_03s10_pset_09/data.json</guid>
+      <description>This resource contains information related to problem set 9.</description>
+    </item>
+    
+  </channel>
+</rss>
