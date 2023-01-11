@@ -1,0 +1,25 @@
+{
+  "course_title":"Introduction to Probability",
+  "course_description":"The tools of probability theory, and of the related field of statistical inference, are the keys for being able to analyze and make sense of data. These tools underlie important advances in many fields, from the basic sciences to engineering and management.\n\nThis resource is a companion site to [6.041SC Probabilistic Systems Analysis and Applied Probability](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/). It covers the same content, using videos developed for an [edX](https://www.edx.org/) version of the course.\n",
+  "site_uid":"6033e6ac-2237-46e5-866f-bf35293bf8dd",
+  "legacy_uid":"50fcb173-a9d4-8322-0884-5ef3dc79294c","instructors": [{
+    "first_name":"John",
+    "last_name":"Tsitsiklis",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. John Tsitsiklis"},{
+    "first_name":"Patrick",
+    "last_name":"Jaillet",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Patrick Jaillet"}],"department_numbers":["RES"],
+  "learning_resource_types":["Lecture Videos","Lecture Notes"],
+  "topics":[["Engineering","Systems Engineering"],["Mathematics","Probability and Statistics"]],
+  "primary_course_number":"RES.6-012",
+  "extra_course_numbers":"",
+  "term":"Spring",
+  "year":"2018",
+  "level":["Undergraduate"],
+  "image_src":"./static_resources/15f66b6f0289f4b4f3e9577b7c264182_res-6-012s18.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"The role of probability theory. Image by John Tsitsiklis. Used with permission.","draft":false,"file":"/courses/res-6-012-introduction-to-probability-spring-2018/15f66b6f0289f4b4f3e9577b7c264182_res-6-012s18.jpg","file_type":"image/jpeg","image_metadata":{"caption":"The role of probability theory is to provide a framework for analyzing phenomena with uncertain outcomes. (Image by John Tsitsiklis.)","credit":"Image by John Tsitsiklis. Used with permission.","image-alt":"Graphic showing the connections between probability theory, inference and statistics, and the real world."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"res-6-012s18.jpg","uid":"15f66b6f-0289-f4b4-f3e9-577b7c264182"}}
+
